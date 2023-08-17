@@ -64,12 +64,12 @@ The notebook concludes with a comparison of the accuracy achieved by each model.
 
 | Estimators             | Accuracy |
 |------------------------|----------|
-| Logistic Regression    | 0.85     |
-| K-Nearest Neighbor     | 0.83     |
-| Decision Tree          | 0.73     |
-| Support Vector Machine | 0.85     |
+| Logistic Regression    | 0.86     |
+| K-Nearest Neighbor     | 0.86     |
+| Decision Tree          | 0.77     |
+| Support Vector Machine | 0.88     |
 
-The Logistic Regression and Support Vector Machine models outperformed the other models in predicting heart disease.
+The Support Vector Machine model outperformed the other models in predicting heart disease.
 
 ## Conclusion
 The project demonstrates the application of machine learning techniques to predict heart attacks. The choice of the best algorithm may depend on the specific characteristics of the dataset and the goals of the analysis.
